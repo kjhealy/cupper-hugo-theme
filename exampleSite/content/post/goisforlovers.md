@@ -2,7 +2,7 @@
 date: "2014-04-02"
 tags: ["go", "templates", "hugo"]
 title: "(Hu)go Template Primer"
-toc: true
+
 ---
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
@@ -265,7 +265,7 @@ aliases:
   - "/doc/permalinks/"
 groups: ["extras"]
 groups_weight: 30
-notoc: true
+no
 ---
 ```
 

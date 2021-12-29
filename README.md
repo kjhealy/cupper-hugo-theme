@@ -94,7 +94,7 @@ Set `toc` to `true`. For example:
 ```
 ---
 title: "My page with a few headings"
-toc: true
+
 ---
 ```
 
